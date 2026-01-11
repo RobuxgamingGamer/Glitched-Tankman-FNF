@@ -1,0 +1,14 @@
+{
+  "image": "characters/glitchTankman",
+  "scale": 1.05,
+  "position": [100, 350],
+  "healthicon": "tankman",
+  "flip_x": false,
+  "animations": [
+    { "anim": "idle", "name": "Idle", "fps": 24, "loop": true },
+    { "anim": "singLEFT", "name": "Left", "fps": 24, "loop": false },
+    { "anim": "singDOWN", "name": "Down", "fps": 24, "loop": false },
+    { "anim": "singUP", "name": "Up", "fps": 24, "loop": false },
+    { "anim": "singRIGHT", "name": "Right", "fps": 24, "loop": false }
+  ]
+}
