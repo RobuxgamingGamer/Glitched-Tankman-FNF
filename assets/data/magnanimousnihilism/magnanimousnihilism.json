@@ -1,0 +1,90 @@
+{
+  "song": {
+    "song": "Magnanimousdisestablishmentarianisticnihilism",
+    "bpm": 135,
+    "needsVoices": true,
+    "speed": 1.2,
+    "player1": "bf",
+    "player2": "tankman",
+    "stage": "stage",
+    "validScore": true,
+    "notes": [
+
+      {
+        "lengthInSteps": 16,
+        "mustHitSection": true,
+        "sectionNotes": [
+          [0, 3, 0],
+          [111, 0, 0],
+          [222, 3, 0],
+          [333, 0, 0],
+          [444, 3, 0],
+          [555, 0, 0],
+          [666, 2, 0],
+          [777, 1, 0]
+        ]
+      },
+
+      {
+        "lengthInSteps": 16,
+        "mustHitSection": true,
+        "sectionNotes": [
+          [0, 3, 0],
+          [55, 0, 0],
+          [111, 2, 0],
+          [166, 1, 0],
+          [222, 3, 0],
+          [277, 0, 0],
+          [333, 2, 0],
+          [388, 1, 0]
+        ]
+      },
+
+      {
+        "lengthInSteps": 8,
+        "mustHitSection": true,
+        "sectionNotes": [
+          [0, 3, 0],
+          [27, 1, 0],
+          [54, 0, 0],
+          [81, 2, 0],
+          [108, 3, 0],
+          [135, 0, 0],
+          [162, 1, 0],
+          [189, 2, 0]
+        ]
+      },
+
+      {
+        "lengthInSteps": 16,
+        "mustHitSection": true,
+        "sectionNotes": [
+          [0, 3, 0],
+          [111, 3, 0],
+          [222, 0, 0],
+          [333, 0, 0],
+          [444, 2, 0],
+          [555, 2, 0],
+          [666, 1, 0],
+          [777, 1, 0]
+        ]
+      },
+
+      {
+        "lengthInSteps": 8,
+        "mustHitSection": true,
+        "sectionNotes": [
+          [0, 3, 0],
+          [111, 0, 0],
+          [222, 2, 0],
+          [333, 1, 0],
+          [360, 3, 0],
+          [387, 1, 0],
+          [414, 0, 0],
+          [441, 2, 0]
+        ]
+      }
+
+    ]
+  }
+}
